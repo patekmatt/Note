@@ -17,7 +17,7 @@ import shutil # delete non-empty directory
 # provides main flow of execution for this program
 def main(argv):
     global directory # root directory
-    directory = "D:/Programming/Python/Note"
+    directory = #PATH FROM WHICH THIS PROGRAM RESIDES
     # define commandset
     myCommandSet = "^(-c|-d|-rn|-f|-r|-a|-j|ls|cd|x|cat|exit)"
     # clear terminal and display informational message
